@@ -1,0 +1,272 @@
+[
+    {
+        "questionText": "當AI模型做出的決策缺乏透明度時，應該如何改善？",
+        "options": [
+            "增加解釋性AI技術（Explainable AI）",
+            "減少數據量以簡化模型",
+            "完全停止該模型的使用",
+            "讓使用者自行解讀結果"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "當AI模型對特定種族的判斷出現偏見時，該如何處理？",
+        "options": [
+            "提升數據多樣性來訓練模型",
+            "強調模型結果不代表事實",
+            "停止使用該模型",
+            "完全交由使用者自行判斷"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "下列密碼可能最安全的是哪個？",
+        "options": [
+            "123456",
+            "userABC",
+            "T$GTF*#2",
+            "tyttyfff"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "哪一個密碼符合強密碼的標準？",
+        "options": [
+            "abc123",
+            "U$eR#987",
+            "letmein",
+            "useruser"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "以下密碼中，哪一個具有較高的安全性？",
+        "options": [
+            "mypassword",
+            "123abc",
+            "X&Y8*7q@",
+            "password"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "資料加密的目的可能是什麼？",
+        "options": [
+            "減少資料大小",
+            "提高資料處理速度",
+            "保護資料免受未授權存取",
+            "儲存資料到雲端"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "選出與資料加密的核心目標一致的陳述：",
+        "options": [
+            "簡化使用者資料的讀取操作",
+            "確保敏感資料在傳輸或儲存時不被洩漏",
+            "提高資料的結構化程度",
+            "優化資料壓縮效能"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "對稱加密和非對稱加密的主要區別是什麼？",
+        "options": [
+            "對稱加密使用單一密鑰，而非對稱加密使用一對公鑰和私鑰",
+            "對稱加密比非對稱加密更安全",
+            "非對稱加密不需要密鑰",
+            "對稱加密僅用於壓縮資料"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "下列哪些行為可能侵犯版權？",
+        "options": [
+            "在社交媒體分享自己拍攝的照片",
+            "未經授權下載電影並在群組分享",
+            "在學校專題中使用合法取得的圖片",
+            "購買正版軟體並安裝到自己的電腦"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "以下行為中，哪一項可能侵犯他人的版權？",
+        "options": [
+            "分享自己拍攝的旅行影片到社交平台",
+            "未經許可在影片中使用受版權保護的音樂",
+            "使用網上免費素材製作簡報",
+            "撰寫原創內容並投稿到期刊"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "哪一個行為可能是合法的？",
+        "options": [
+            "從未經授權的網站下載最新的電影並上傳到網路平台",
+            "在公開演講中播放未授權下載的音樂",
+            "在課堂中展示自己繪製的作品",
+            "將網路上的受版權保護的圖片用於商業用途"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "以下哪一個元件安裝到主機板時，需特別注意腳位方向?",
+        "options": [
+            "硬碟",
+            "記憶體",
+            "電源供應器",
+            "顯示器"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "記憶體（RAM）安裝到主機板上時，通常如何確保正確安裝？",
+        "options": [
+            "將記憶體槽完全打開即可",
+            "檢查記憶體的切口方向",
+            "插入後立即開機測試",
+            "不需特別注意，可自由插入"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "安裝中央處理器（CPU）時，哪項操作需要特別注意？",
+        "options": [
+            "固定螺絲",
+            "塗抹散熱膏",
+            "對準腳位方向",
+            "插入電源線"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "下列哪一款軟體最適合處理文字排版？",
+        "options": [
+            "Adobe Photoshop",
+            "Microsoft Word",
+            "AutoCAD",
+            "VLC Media Player"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "若需撰寫與編輯程式碼，哪一款軟體最適合？",
+        "options": [
+            "Visual Studio Code",
+            "Microsoft Word",
+            "Adobe Photoshop",
+            "AutoCAD"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "下列哪一款軟體最適合進行數據分析？",
+        "options": [
+            "Adobe Photoshop",
+            "Microsoft Excel",
+            "VLC Media Player",
+            "Microsoft PowerPoint"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "電腦無法啟動，且聽到連續的嗶聲，可能是哪個元件問題？",
+        "options": [
+            "硬碟",
+            "顯示器",
+            "網路卡",
+            "記憶體"
+        ],
+        "correctOption": 3
+    },
+    {
+        "questionText": "開機後出現「找不到作業系統」的訊息，最可能的原因是？",
+        "options": [
+            "硬碟未正確連接",
+            "記憶體損壞",
+            "網路連線問題",
+            "電源供應器故障"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "如果鍵盤輸入異常，應該首先檢查什麼？",
+        "options": [
+            "主機板BIOS設定",
+            "鍵盤是否插緊",
+            "顯示器是否正常",
+            "網路連接是否正常"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "若需將資料按「重量」分為輕、中、重三類，應使用哪種技術？",
+        "options": [
+            "迴歸分析（Regression）",
+            "類神經網路",
+            "分群（Clustering）",
+            "排序（Sorting）"
+        ],
+        "correctOption": 2
+    },
+    {
+        "questionText": "若需要對資料進行層級式分類，應採用哪種技術？",
+        "options": [
+            "決策樹（Decision Tree）",
+            "分群（Clustering）",
+            "線性迴歸（Linear Regression）",
+            "支援向量機（SVM）"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "如果要分析數據並找出不同類別的分布情況，應該選擇哪種方法？",
+        "options": [
+            "分群（Clustering）",
+            "排序（Sorting）",
+            "迴歸分析（Regression）",
+            "樣本加權（Weighting）"
+        ],
+        "correctOption": 0
+    },
+    {
+        "questionText": "在訓練機器學習模型時，應該如何避免過度擬合（Overfitting）？",
+        "options": [
+            "減少訓練數據量",
+            "提高模型的複雜度",
+            "完全依賴訓練數據結果",
+            "使用驗證集來調整模型"
+        ],
+        "correctOption": 3
+    },
+    {
+        "questionText": "如果模型在驗證集表現良好，但在測試集表現不佳，可能是因為？",
+        "options": [
+            "測試集過於簡單",
+            "過度擬合（Overfitting）",
+            "驗證集資料不足",
+            "模型使用了過多參數"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "在訓練模型時，若資料中有過多的噪音，應如何處理？",
+        "options": [
+            "增加模型的複雜度",
+            "適當地清理資料",
+            "減少驗證數據量",
+            "完全重新訓練模型"
+        ],
+        "correctOption": 1
+    },
+    {
+        "questionText": "在自駕車事故中，如何公平地分配AI系統的責任？",
+        "options": [
+            "僅由使用者承擔責任",
+            "強調技術缺陷為主因",
+            "依具體情境調查並分配責任",
+            "直接停止所有自駕技術研發"
+        ],
+        "correctOption": 2
+    }
+]
